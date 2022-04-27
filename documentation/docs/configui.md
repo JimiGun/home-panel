@@ -1,4 +1,4 @@
-# Configuration UI
+# Configuration UI - Gorobchenko 
 
 Everything that you can edit in the configuration file, can be edited in the UI.
 
